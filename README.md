@@ -1,0 +1,3 @@
+# Education-research-plateform
+A curation of resources and methods to support education researchers
+This is an ongoing project aiming at providing education researchers with a one stop shop for state of the art resources in education research.
