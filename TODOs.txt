@@ -1,0 +1,4 @@
+List elements to be included in the plateform
+Datasets repository?
+Agree on initial structure
+How do we integrate the first bit 'Intro to Stata' and relate it to other resources (viz)?
