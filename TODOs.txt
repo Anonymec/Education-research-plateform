@@ -7,8 +7,8 @@
 5. How would the workflow happen before any module is validated and integrated?
 6. Produce templates for modules including technical requirements (for a future webpage) and conceptual design
 7. Some questions:
-*What's the added value of such resource? Theory, content, methods and plateform
-*Can it help bridging between qualitative and quantitative?
+ * What's the added value of such resource? Theory, content, methods and plateform
+ * Can it help bridging between qualitative and quantitative?
 8. Next steps:
     * Add Ben as contributor to the git
     * List working environment options (tools: dillinger, atom, git desktop etc... )
