@@ -10,11 +10,10 @@
  * What's the added value of such resource? Theory, content, methods and plateform
  * Can it help bridging between qualitative and quantitative?
 8. Next steps:
-    * Add Ben as contributor to the git
-    * List working environment options (tools: dillinger, atom, git desktop etc... )
-    * Get familiar with git hub and tools
     * Sketch mapping of the future resource
-    * Start thinking of an initial proof of concept:
-        * Intro to Stata
-        * Dataviz
-        * Dataviz concepts
+    * Create 4 markdown pages with 4 resources (2 each):
+    * Ben:  * OLS regression with Stata
+            * Dataviz with Stata
+
+    * Patrick: * Intro to Stata
+                * Research papers with CLAS and visualizing data
